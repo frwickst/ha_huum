@@ -1,2 +1,3 @@
-# ha_huum
-Huum Integration
+# HA Huum Integration
+
+Integration for Huum for Home Assistant
